@@ -1,0 +1,60 @@
+div#base-achiles {
+    width:600px;
+    margin:50px auto;
+    background:#131313;
+    box-shadow:0 0 10px 0 #000;
+}
+
+div#imagem-achiles {
+    /*background-image: url(https://i.imgur.com/cZCjQGR.jpeg);*/
+    background-image: url(WallpaperDog-10989987.jpg);
+    width: 100%;
+    background-size: cover;
+    overflow: hidden;
+}
+
+div#titulo-achiles {
+    font-weight: bold;
+    font-size: 2em;
+    font-family: 'Megrim', cursive;
+    color: white;
+    border: 2px solid white;
+    padding: 10px 50px;
+    margin: 100px auto;
+    width: 76%;
+    text-align: center;
+    position: relative;
+    top: 70px;
+}
+
+div#post-achiles{
+    color: #F8F8FF;
+    font-size: 13px;
+    padding: 20px;
+    text-align: justify;
+    font-family: 'Raleway', sans-serif;
+}
+
+hr#barra-final {
+    height: 1px;
+    border: none;
+    background-color: #fff;
+    width: 93.5%;
+    margin: 20px auto;
+    box-shadow: 0 0 2px black;
+}
+
+div.history_objective {
+    color: #f8f8ff;
+    font-size: 13px;
+    padding: 0px 20px 30px;
+    text-align: justify;
+    font-family: 'Raleway', sans-serif;
+    bottom: 50px;
+}
+
+.dInfo {
+    padding: 5px 0px;
+    width: 300px;
+    margin: 20px 0px;
+}
